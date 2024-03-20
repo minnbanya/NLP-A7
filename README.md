@@ -1,4 +1,4 @@
-# NLP A5
+# NLP A7
  AIT NLP Assignment 7
 
 - [Student Information](#student-information)
@@ -64,7 +64,7 @@ The langchain using the GPT2 model is presaved using cloudpickle and loaded duri
 
 ![alt text](image-1.png)
 
-Clicking on the link causes the web app to move that document from the database to the web app and displays the PDF to the user.
+Clicking on the link causes the web app to copy that document from the database to the web app and displays the PDF to the user.
 
 ![alt text](image-2.png)
 
